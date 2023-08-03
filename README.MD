@@ -667,14 +667,6 @@ monthlyApplications = monthlyApplications
   .reverse();
 ```
 
-- remove Procfile
-- remove engines from package.json
-
-```json
-"engines": {
-    "node": "16.x"
-  }
-```
 
 - fix build folder (remove /build from client/.gitignore)
 - setup new github repo
